@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h3 {
+  color: #3299a6a4;
+}
+
+button {
+  padding: 0.75rem 1rem;
+  margin: 0;
+  cursor: pointer;
+  border: none;
+  color: #fafafa;
+  background-color: #14213d;
+  border-radius: 0.5rem;
+}
